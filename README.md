@@ -1,7 +1,7 @@
 # Blondezone - Plataforma de Hospedagem de Jogos
 
-![GameHost Logo](<img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/128/Play-Games-icon.png" width="128" height="128">
-)
+<img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/128/Play-Games-icon.png" width="128" height="128">
+
 
 ## Descrição
 
