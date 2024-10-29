@@ -10,8 +10,10 @@ const toggle = () => {
     theme.classList.toggle('hover:bg-zinc-200')
 
     if(document.querySelector('.icon-mode').classList.contains('hidden')){
-        document.querySelector('.moon').classList.add('flex')
-    }
+        document.querySelector('.moon').classList.remove('hidden')
+    } else (
+        document.querySelector('.moon').classList.add('hidden')
+    )
 };
 
 // const gameCards = document.querySelectorAll('.game-card');
